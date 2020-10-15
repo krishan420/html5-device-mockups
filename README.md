@@ -36,7 +36,7 @@ Features:
 * Multiple orientations
 * 86 different device images
 
-Devices
+Android Devices and Laptops Companies
 -------
 
 | Name | Filename | Orientations | Colors |
@@ -69,7 +69,7 @@ Devices
 | Surface Pro 3 | SurfacePro3 | landscape | black |
 | Surface Studio | SurfaceStudio | portrait | black |
 
-## Integrating to your website:
+## Integrating to your website HTML 5 devices
 
 ### Bower
 ```
